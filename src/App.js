@@ -7,14 +7,14 @@ const DUMMY_EXPENSES = [
     id: "e1",
     title: "Food",
     location: "Bengalore",
-    date: new Date(2020, 5, 15),
+    date: new Date(2021, 5, 15),
     amount: 10,
   },
   {
     id: "e2",
     title: "Petrol",
     location: "Electronic-city",
-    date: new Date(2021, 6, 26),
+    date: new Date(2022, 6, 26),
     amount: 200,
   },
   {
